@@ -1,0 +1,6 @@
+Hope you are doing well, below is the sand, silt, and clay % of 4 blocks. 
+
+Block 1 = Sand= 63.8, Clay= 7.5, Silt= 28.8    (Sandy Loam)
+Block 2 = Sand= 63.8, Clay= 6.3, Silt= 30.0    (Sandy Loam)
+Block 3 = Sand= 63.8, Clay= 5.5, Silt= 30.8    (Sandy Loam)
+Block 4 = Sand= 87.5, Clay= 5.0, Silt= 7.5     (Loamy Sand)
