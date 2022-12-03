@@ -7,6 +7,7 @@ Farmers can benefit from forecasts of soil moisture.
 In this experiment, I am going to apply multiple linear regression, support vector regression, and recurrent neural networks to estimate soil moisture according to weather forcast. 
 
 Why Soil moisture is important for farming?
+
 Soil moisture is vital in agricultural monitoring, drought and flood forecasting, forest fire prediction, water supply management, and other natural resource activities. Soil moisture observations can forewarn of impending drought or flood conditions before other more standard indicators are triggered.
 
 Soil Moisture
